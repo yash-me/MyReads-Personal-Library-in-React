@@ -18,4 +18,5 @@ A Personal library of books built in react where we can add books in different s
 
 * clone the Project - `https://github.com/yash-me/MyReads-Personal-Library-in-React.git`
 * install the dependencies - `npm install`
+                           - `npm install --save react-router-dom`
 * run to view the project - `npm start`
